@@ -1,5 +1,6 @@
 # Time Series Forecasting Analysis in M4 Competition
 
+## Sections
 - **[Time-Series Analytics and Forecasting](#time-series-forecasting-analysis-in-m4-competition)**
   - **[Daily Data](#daily-data)**
     - [**Simple Exponential Smoothing (SES)**](#simple-exponential-smoothing-ses)
