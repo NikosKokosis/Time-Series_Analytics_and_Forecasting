@@ -1,5 +1,7 @@
 - Time-Series_Analytics_and_Forecasting/
   - Daily_Data/
+    - SES/
+      - Simple_Exponential_Smoothing.ipynb
     - Holt/
       - Holt's_linear_trend_method.ipynb
     - RNNs/
@@ -7,8 +9,6 @@
       - Decomp_EXP_Simple_LSTM.ipynb
       - RNNArchi_Vs_MLPArchi.ipynb
       - RNN_GRU_LSTM_Multivariate.ipynb
-    - SES/
-      - Simple_Exponential_Smoothing.ipynb
   - Quarterly_Data/
     - Holt's_Winter/
       - Holt_Winter.ipynb
