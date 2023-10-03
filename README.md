@@ -1,3 +1,5 @@
+# Time Series Forecasting Analysis in M4 Competition
+
 - **[Time-Series Analytics and Forecasting](#time-series-forecasting-analysis-in-m4-competition)**
   - **[Daily Data](#daily-data)**
     - [**Simple Exponential Smoothing (SES)**](#simple-exponential-smoothing-ses)
@@ -9,9 +11,6 @@
   - **[Quarterly Data](#quarterly-data)**
     - [**Holt-Winter Method**](#holt-winter-method)
 
-
-
-# Time Series Forecasting Analysis in M4 Competition
 
 ## Project Overview
 
