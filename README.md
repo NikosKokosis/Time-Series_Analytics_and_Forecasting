@@ -2,16 +2,16 @@
 
 ## Sections
 - **[Project Overview](#project-overview)**
-  - **[Daily Data](#daily-data)**
-    - [**Simple Exponential Smoothing (SES)**](#simple-exponential-smoothing-ses)
+- **[Daily Data](#daily-data)**
+  - [**Simple Exponential Smoothing (SES)**](#simple-exponential-smoothing-ses)
     - [**Holt's Linear Trend Method**](#holts-linear-trend-method)
     - [**LSTM Models with Different Input Sequence Lengths**](#lstm-models-with-different-input-sequence-lengths)
     - [**Adding Trend to SimpleRNN and LSTM Model**](#adding-trend-to-simplernn-and-lstm-model)
     - [**Forecasting Returns: SimpleRNN vs Multi-Layer Perceptron (MLP)**](#forecasting-returns-simplernn-vs-multi-layer-perceptron-mlp)
     - [**Multivariate Forecasting: SimpleRNN vs LSTM vs GRU**](#multivariate-forecasting-simplernn-vs-lstm-vs-gru)
-  - **[Quarterly Data](#quarterly-data)**
+- **[Quarterly Data](#quarterly-data)**
     - [**Holt-Winter Method**](#holt-winter-method)
-  - **[Conclusions](#final-conclusions)
+- **[Conclusions](#final-conclusions)**
 
 
 ## Project Overview
