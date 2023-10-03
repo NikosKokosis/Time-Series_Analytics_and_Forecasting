@@ -1,17 +1,14 @@
-- Time-Series_Analytics_and_Forecasting/
-  - Daily_Data/
-    - SES/
-      - Simple_Exponential_Smoothing.ipynb
-    - Holt/
-      - Holt's_linear_trend_method.ipynb
-    - RNNs/
-      - LSTMs_Models.ipynb
-      - Decomp_EXP_Simple_LSTM.ipynb
-      - RNNArchi_Vs_MLPArchi.ipynb
-      - RNN_GRU_LSTM_Multivariate.ipynb
-  - Quarterly_Data/
-    - Holt's_Winter/
-      - Holt_Winter.ipynb
+- **[Time-Series Analytics and Forecasting](#time-series-forecasting-analysis-in-m4-competition)**
+  - **[Daily Data](#daily-data)**
+    - [**Simple Exponential Smoothing (SES)**](#simple-exponential-smoothing-ses)
+    - [**Holt's Linear Trend Method**](#holts-linear-trend-method)
+    - [**LSTM Models with Different Input Sequence Lengths**](#lstm-models-with-different-input-sequence-lengths)
+    - [**Adding Trend to SimpleRNN and LSTM Model**](#adding-trend-to-simplernn-and-lstm-model)
+    - [**Forecasting Returns: SimpleRNN vs Multi-Layer Perceptron (MLP)**](#forecasting-returns-simplernn-vs-multi-layer-perceptron-mlp)
+    - [**Multivariate Forecasting: SimpleRNN vs LSTM vs GRU**](#multivariate-forecasting-simplernn-vs-lstm-vs-gru)
+  - **[Quarterly Data](#quarterly-data)**
+    - [**Holt-Winter Method**](#holt-winter-method)
+
 
 
 # Time Series Forecasting Analysis in M4 Competition
