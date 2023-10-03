@@ -1,7 +1,7 @@
 # Time Series Forecasting Analysis in M4 Competition
 
 ## Sections
-- **[Time-Series Analytics and Forecasting](#time-series-forecasting-analysis-in-m4-competition)**
+- **[Project Overview](#project-overview)**
   - **[Daily Data](#daily-data)**
     - [**Simple Exponential Smoothing (SES)**](#simple-exponential-smoothing-ses)
     - [**Holt's Linear Trend Method**](#holts-linear-trend-method)
@@ -11,6 +11,7 @@
     - [**Multivariate Forecasting: SimpleRNN vs LSTM vs GRU**](#multivariate-forecasting-simplernn-vs-lstm-vs-gru)
   - **[Quarterly Data](#quarterly-data)**
     - [**Holt-Winter Method**](#holt-winter-method)
+  - **[Conclusions](#final-conclusions)
 
 
 ## Project Overview
