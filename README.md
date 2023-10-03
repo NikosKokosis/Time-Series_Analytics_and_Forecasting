@@ -77,7 +77,7 @@ The Holt-Winter's Multiplicative Seasonality With Trend (Triple Exponential Smoo
 
 Our research on time series data analysis yields significant conclusions:
 
-### Statistical Methods vs. Machine Learning
+### Statistical Methods vs Machine Learning
 
 Traditional statistical methods like SES and Holt's method may not capture complex patterns effectively. Machine learning models offer flexibility and adaptability, making them suitable for non-stationary data.
 
